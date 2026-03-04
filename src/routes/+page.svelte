@@ -2,7 +2,7 @@
 
 <script>
     import background from '$lib/assets/background.jpg';
-    import { title } from 'process';
+ 
 </script>
 <svelte:head>
 <title>Car that make you feel better </title>
