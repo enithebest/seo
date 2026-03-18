@@ -1,6 +1,6 @@
 ﻿
 <script>
-    const background = 'https://res.cloudinary.com/dbdddybnl/image/upload/v1772711286/Gemini_Generated_Image_d4agskd4agskd4ag_t2gteu.png';
+    const background = 'https://res.cloudinary.com/dbdddybnl/image/upload/w_300,q_20/v1772711286/Gemini_Generated_Image_d4agskd4agskd4ag_t2gteu.png';
 
 
     let {data} = $props();
