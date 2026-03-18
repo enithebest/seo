@@ -1,4 +1,4 @@
-import { createConnection } from '$lib/server/db';
+import { createConnection } from '$lib/db/mysql';
  
 export async function GET() {
 	const baseUrl = 'https://example.com';

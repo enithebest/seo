@@ -5,7 +5,7 @@
 
     let {data} = $props();
 
-    const products = data?.products ?? [];
+    const products = $derived(data?.products ?? []);
 
     const formatPrice = (price) => Number(price ?? 0).toFixed(2);
 </script>
